@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+}
+
+header a {
+    display: flex;
+}
+
+.cabecalho {
+    height: 100px;
+}
+
+header {
+    display: flex;
+    background-color: #70C0ED;
+}
+
+header svg {
+    width: 40px;
+    height: 40%;
+    margin-top: 11%;
+    margin-left: 15px;
+}
+
+header b {
+    font-size: 20px;
+    margin-top: 10px;
+    color: #B82A25;
+}
+
+#title img {
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 150px;
+}
+
+body {
+    background-image: url(frango-assado-na-salsa-com-batatas-coradas-2\ 1.png);
+    background-size: 100%;
+}
+
+body p {
+    text-align: center;
+    margin-top: 20%;
+}
+
+li {
+    list-style: none;
+}
+
+hr {
+    background-color: #B82A25;
+    border-color: #B82A25;
+    height: 3px;
+    border: 0;
+}
+
+#icons {
+    margin-left: 63%;
+}
+
+#valor {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+    font-size: 34px;
+    margin-left: 26px;
+    color:rgb(255, 255, 255) ;
+}
+
+#MinLinha {
+    margin: 10px;
+    margin-top: 25px;
+    margin-left: 23px;
+    width: 200px;
+    border-color: rgb(239, 203, 81);
+    background-color: rgb(239, 203, 81);
+}
+
+#produtos {
+    margin-left: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    color: white;
+}
+
+footer {
+    font-size: 20px;
+    background-color: rgb(70C0ED);
+    display: flex;
+    background-color: #70C0ED;
+    align-items: center;
+    margin-top: 212px;
+    justify-content: space-around;
+}
+
+footer svg {
+    width: 2%;
+    margin-left: 10%;
+    margin-right: 1%;
+}
